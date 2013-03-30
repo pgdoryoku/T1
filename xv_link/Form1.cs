@@ -16,11 +16,14 @@ namespace xv_link
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.textBox1.Text = "abc";
             this.textBox2.Text = "def";
         }
+=======
+>>>>>>> 8f00afaa30b4e882019f264f6dc6c23d0d48cd74
     }
 }
